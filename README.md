@@ -1,0 +1,2 @@
+# Pakistan-Stock-Exchange-PSX-Power-BI-Dashboard
+Power BI dashboard analyzing Pakistan Stock Exchange (PSX) data with insights on market trends, sector performance, trading volume, and stock prices. Built for data-driven decision-making and financial analysis. Power BI project visualizing Pakistan Stock Exchange (PSX) data — includes sector trends, trading volume, and stock performance analytics.
